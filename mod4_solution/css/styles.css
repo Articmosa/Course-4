@@ -1,0 +1,75 @@
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: lightgray;
+}
+
+#header-nav {
+    background-color: orange;
+    border-radius: 0;
+    border:0;
+    margin: 0;
+    padding: 0%;
+}
+
+ body h1 {
+    font-weight: bold;
+}
+
+
+.navbar-header a {
+
+    font-family: 'Muli', sans-serif;
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    font-size: 2em;
+
+}
+
+
+.navbar-header a:hover , .navbar-header a:focus {
+    text-decoration: none;
+}
+
+.texto {
+    background-color: gray;
+    font-weight: bold;
+    text-align: justify;
+    padding: 7px;
+    margin: 10px;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+
+}
+
+
+#nav-list a {
+    color:black;
+    text-align: center;
+    font-size: 1.3em;
+
+    
+}
+
+#nav-list a:hover  {
+    background: #E7E7E7;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
